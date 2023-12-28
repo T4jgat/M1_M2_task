@@ -1,0 +1,5 @@
+/receiver/node_modules
+/receiver/routes
+/receiver/controllers
+
+/sender/node_modules
